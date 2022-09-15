@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px;
+}
+
+th, td {
+    border: 1px solid black;
+    height: 30px;
+}
+
+tr:nth-child(even) {
+    background-color: gray;
+}
+
+.engloba-tudo {
+    width: 900px;
+    height: 800px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: 30px auto;
+}
